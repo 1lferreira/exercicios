@@ -1,2 +1,2 @@
-# lista-java
+# java
 Lista de Exercícios - Java
